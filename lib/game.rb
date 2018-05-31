@@ -20,7 +20,7 @@ class Game
     @board = board
     @player_1 = player_1
     @player_2 = player_2
-    
+
   end
 
 
@@ -75,7 +75,4 @@ class Game
       puts "Game Over"
     end
   end
-
-
-
 end
